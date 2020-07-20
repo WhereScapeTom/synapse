@@ -1,0 +1,17 @@
+{
+	"name": "Test1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"description": "68.226.255.183",
+		"annotations": [],
+		"type": "SqlServer",
+		"typeProperties": {
+			"connectionString": "integrated security=False;data source=.\\SQL19;initial catalog=AdvWrkDW17;user id=CSUser",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI5YWZiMzVjZi03YjJjLTQwOGYtYTI4My1iOTY2OWE3ODBmNTgiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "ThomBeauxOnPremise",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
