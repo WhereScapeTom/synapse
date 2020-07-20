@@ -1,0 +1,7 @@
+{
+	"name": "ThomBeauxOnPremise",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "ThomBeauxOnPremise"
+	}
+}
