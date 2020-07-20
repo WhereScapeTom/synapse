@@ -5,8 +5,8 @@
 		"annotations": [],
 		"type": "SqlServer",
 		"typeProperties": {
-			"connectionString": "integrated security=False;data source=thomas-l\\SQL19;initial catalog=AdvWrkDW17;user id=CSUser",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzZDE4NzE0OC03NWJhLTRmM2ItOTJiZS02OTc2NmYzMTU0YWEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"connectionString": "integrated security=False;data source=THOMAS-L\\SQL19;initial catalog=AdvWrkDW17;user id=CSUser",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4ZDdmMGJiMi1kNmNmLTQxYmQtOTA4Yy1iYTY4OTE2MjJkOGYiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
 			"referenceName": "ThomBeauxOnPremise",
